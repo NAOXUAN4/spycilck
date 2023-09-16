@@ -1,5 +1,6 @@
 # spycilck
-抢导师爬虫
+
+
 请使用chrome浏览器
 
 爬虫通过selenium实现所以要先安装这个库
