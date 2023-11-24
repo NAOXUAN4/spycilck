@@ -3,7 +3,7 @@
 
 请使用chrome浏览器
 
-爬虫通过selenium实现所以要先安装这个库
+爬虫通过selenium实现
 
 
 因为chrome驱动的版本是要和你的电脑里的chrome版本一致所以请先升级到这个版本
